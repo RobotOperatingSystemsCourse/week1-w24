@@ -1,5 +1,5 @@
-#ifndef WEEK1_W24_SOLUTION_MESSAGE_HPP
-#define WEEK1_W24_SOLUTION_MESSAGE_HPP
+#ifndef WEEK1_W24_MESSAGE_HPP
+#define WEEK1_W24_MESSAGE_HPP
 
 #include <string>
 
@@ -53,4 +53,4 @@ bool operator==(const BoolMessage& lhs, const BoolMessage& rhs) {
   return lhs.utime == rhs.utime && lhs.data == rhs.data;
 }
 
-#endif  // WEEK1_W24_SOLUTION_MESSAGE_HPP
+#endif  // WEEK1_W24_MESSAGE_HPP
