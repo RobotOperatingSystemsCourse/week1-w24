@@ -19,5 +19,5 @@
 # TODO: Build an executable for test_message_table.cpp and link it against GTest::gtest_main.
 
 
-# TODO: Register the all five GTest unit tests above with CTest. This should require only one GTest helper function.
+# TODO: Register the all four GTest unit tests above with CTest. This should require only one GTest helper function.
 
